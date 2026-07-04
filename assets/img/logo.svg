@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 170" role="img" aria-labelledby="blTitle">
+  <title id="blTitle">Beyond Logistics</title>
+  <g font-family="'Fjalla One', 'Arial Narrow', sans-serif" font-weight="700">
+    <text x="0" y="105" font-size="96" letter-spacing="1" fill="#104274">BEY</text>
+    <text x="350" y="105" font-size="96" letter-spacing="1" fill="#104274">ND</text>
+    <g transform="translate(222,3)">
+      <circle cx="55" cy="55" r="48" fill="none" stroke="#6e1906" stroke-width="4"/>
+      <path d="M55,7 C33,27 33,83 55,103" fill="none" stroke="#6e1906" stroke-width="2.5"/>
+      <path d="M55,7 C77,27 77,83 55,103" fill="none" stroke="#6e1906" stroke-width="2.5"/>
+      <line x1="7" y1="55" x2="103" y2="55" stroke="#6e1906" stroke-width="2.5"/>
+      <line x1="14" y1="35" x2="96" y2="35" stroke="#6e1906" stroke-width="2"/>
+      <line x1="14" y1="75" x2="96" y2="75" stroke="#6e1906" stroke-width="2"/>
+      <ellipse cx="55" cy="55" rx="82" ry="24" fill="none" stroke="#6e1906" stroke-width="6" transform="rotate(-18 55 55)"/>
+    </g>
+  </g>
+  <text x="280" y="150" font-family="'Josefin Sans', sans-serif" font-weight="600" font-size="34" letter-spacing="10" fill="#104274" text-anchor="middle">LOGISTICS</text>
+</svg>
